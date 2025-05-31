@@ -8,7 +8,7 @@
 	<h1 style="color: green; font-size: 40px;" align="center">8466811623</h1>
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION in JENKINS</h1>
 	<h1 style="color: grey; font-size: 40px;" align="center">we are done with ci/cd</h1>
-	<h1 style="color: blue; font-size: 40px;" align="center">we integraded nexus artifact also/cd</h1>
+	<h1 style="color: blue; font-size: 40px;" align="center">we integraded nexus artifact also</h1>
 	<h1 style="color: black; font-size: 40px;" align="center">I am done with jenkins and tomcat deployemnt in AWS</h1>
 	
 	
